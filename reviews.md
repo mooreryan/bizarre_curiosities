@@ -11,3 +11,5 @@ Originally people thought everything was everywhere because of the small size an
 **[Using Signature Genes as Tools To Assess Environmental Viral Ecology and Diversity](http://aem.asm.org/content/80/15/4470.short)** (2014)
 
 Reviews the use of structural proteins (portal, major capsid, tail sheath), auxiliary metabolic genes (psbA, psbB, phoH), polymerase genes and others.
+
+**[Biogeography of Viruses in the Sea](http://www.annualreviews.org/doi/abs/10.1146/annurev-virology-031413-085540)** (Chow and Suttle 2015)

@@ -145,3 +145,41 @@
 - "Our interpretation is that, over the scale of days, individual bacterial and viral OTUs can be dynamic and patterned; resulting in statistical associations regarded as potential ecological interactions."
 
 - "However, over the scale of weeks, average bacterial community variation is slower, suggesting that there is strong community-level ecological resilience, that is, a tendency to converge towards a ‘mean’ microbial community set by longer-term controlling factors."
+
+**[Diversity and genome dynamics of marine cyanophages using metagenomic analyses](http://onlinelibrary.wiley.com/doi/10.1111/1758-2229.12160/full)** (2014)
+
+**[Strong Seasonality and Interannual Recurrence in Marine Myovirus Communities](http://aem.asm.org/content/79/20/6253.short)** (Pagarete et al., 2014)
+
+**[Deep sequencing of the viral phoH gene reveals temporal variation, depth-specific composition, and persistent dominance of the same viral phoH genes in the Sargasso Sea](https://peerj.com/articles/997/)** (Goldsmith et al., 2015)
+
+*Lab*: Mya Breitbart
+
+**[Top-down controls on bacterial community structure: microbial network analysis of bacteria, T4-like viruses and protists](http://www.nature.com/ismej/journal/v8/n4/abs/ismej2013199a.html)** (Chow et al., 2013)
+
+*Lab*: Jed Fuhrman
+
+**[Marine Cyanophages Demonstrate Biogeographic Patterns throughout the Global Ocean](http://aem.asm.org/content/81/1/441.full)** (Huang et al., 2015)
+
+*Lab*: Feng Chen
+
+**[Multi-scale structure and geographic drivers of cross-infection within marine bacteria and phages](http://www.nature.com/ismej/journal/v7/n3/abs/ismej2012135a.html)** (Flores et al., 2012)
+
+*Lab*: Joshua Weitz
+
+**[Marine cyanophages exhibit local and regional biogeography](http://onlinelibrary.wiley.com/doi/10.1111/1462-2920.12062/full)** (Marston et al., 2013)
+
+*Lab*: Jennifer B. H. Martiny
+
+**[Global marine bacterial diversity peaks at high latitudes in winter](http://www.nature.com/ismej/journal/v7/n9/full/ismej201337a.html)** (2013)
+
+*Authors*: Joshua Ladau1, Thomas J Sharpton1, Mariel M Finucane1, Guillaume Jospin2, Steven W Kembel3, James O'Dwyer4, Alexander F Koeppel5, Jessica L Green3,4 and Katherine S Pollard1,6
+
+**[The Marine Viromes of Four Oceanic Regions](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1634881/)** (2006)
+
+*A classic paper*
+
+*Authors*: Florent E Angly,1,2 Ben Felts,2,3 Mya Breitbart,1,¤ Peter Salamon,2,3 Robert A Edwards,1,2,4,5 Craig Carlson,6 Amy M Chan,7 Matthew Haynes,1 Scott Kelley,1,4 Hong Liu,1 Joseph M Mahaffy,2,3 Jennifer E Mueller,1 Jim Nulton,2,3 Robert Olson,8 Rachel Parsons,9 Steve Rayhawk,1,2 Curtis A Suttle,7,10,11 and Forest Rohwer1,4,*
+
+**[The Sorcerer II Global Ocean Sampling Expedition: Metagenomic Characterization of Viruses within Aquatic Microbial Samples](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2186209/)** (2008)
+
+*Authors*: Shannon J. Williamson,1,* Douglas B. Rusch,1 Shibu Yooseph,1 Aaron L. Halpern,1 Karla B. Heidelberg,1,2 John I. Glass,1 Cynthia Andrews-Pfannkoch,1 Douglas Fadrosh,1 Christopher S. Miller,3 Granger Sutton,1 Marvin Frazier,1 and J. Craig Venter1
