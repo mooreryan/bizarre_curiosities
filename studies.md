@@ -303,3 +303,37 @@ http://www.ncbi.nlm.nih.gov/pubmed/23446831
 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3695287/
 
 http://www.nature.com/ismej/journal/v7/n7/full/ismej201319a.html
+
+### Estimating biodiversity ###
+
+#### Important ####
+
+https://jonlefcheck.net/2012/10/23/diversity-as-effective-numbers/
+
+http://www.annualreviews.org/doi/pdf/10.1146/annurev-statistics-022513-115654
+
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4741086/pdf/peerj-04-1634.pdf
+
+#### Less so ####
+
+http://link.springer.com/chapter/10.1007/978-3-319-25433-3_9
+
+https://peerj.com/articles/1634/
+
+http://arxiv.org/abs/1410.3155
+
+http://link.springer.com/article/10.1007/s40484-015-0049-7
+
+http://onlinelibrary.wiley.com/doi/10.1111/biom.12332/full
+
+http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004226
+
+http://arxiv.org/abs/1506.05710
+
+http://finzi.psych.upenn.edu/library/rareNMtests/html/rarefaction.individual.html
+
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0100014
+
+http://onlinelibrary.wiley.com/doi/10.1890/13-0133.1/abstract
+
+http://www.phytools.org/eqg2015/asr.html
