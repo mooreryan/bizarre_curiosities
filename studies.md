@@ -146,6 +146,56 @@
 
 - "However, over the scale of weeks, average bacterial community variation is slower, suggesting that there is strong community-level ecological resilience, that is, a tendency to converge towards a ‘mean’ microbial community set by longer-term controlling factors."
 
+**[Deciphering the bat virome catalog to better understand the ecological diversity of bat viruses and the bat origin of emerging infectious diseases](http://www.nature.com/ismej/journal/v10/n3/full/ismej2015138a.html)** (2015)
+
+*Authors:* Zhiqiang Wu1,5, Li Yang1,5, Xianwen Ren1,5, Guimei He3,5, Junpeng Zhang3, Jian Yang1, Zhaohui Qian1, Jie Dong1, Lilian Sun1, Yafang Zhu1, Jiang Du1, Fan Yang1, Shuyi Zhang3,4 and Qi Jin1,2
+
+- Looked at viral population and diversity in bats
+- Big study...4440 bat individuals of 40 species
+- The intesting thing here is that they compared an assembly first strategy against an alignment/recruitment first strategy
+- Also used different marker genes and compared for ssRNA viruses
+- Cited for the Iroki paper
+
+**[Insights in the ecology and evolutionary history of the Miscellaneous Crenarchaeotic Group lineage](http://www.nature.com/ismej/journal/v10/n3/full/ismej2015143a.html)** (2015)
+
+*Authors:* Mireia Fillol1, Jean-Christophe Auguet2, Emilio O Casamayor3 and Carles M Borrego1,4
+
+*cool*: I like this study mainly because they grabbed SSU rRNA sequences from Entrez. The materials and methods section...lalala great! I really like this paper and their stats too.d
+
+- Iroki citation
+- Looked at distribution of MCG using publically available sequences from various geographic regions
+- Marine to freshwater
+- Did something called ancestral state reconstruction -- saline/frewshwater transition was an important event
+- Network analysis to connect MCG with Thermoplasmata
+
+**[Marker genes that are less conserved in their sequences are useful for predicting genome-wide similarity levels between closely related prokaryotic strains](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-016-0162-5)** (2016)
+
+*Authors:* Yemin Lan, Gail Rosen† and Ruth Hershberg†
+
+- Compare 16s and 73 other near universal marker genes correlation with genome-wide levels of gene sequence similarity
+- 16S good at predicting whole genome similarity for distantly related organisms
+- The least conserved marker gene present within a whole lineage that you're looking at are the most useful markers
+- A database to help with this: POGO-DB
+
+**[Tuning fresh: radiation through rewiring of central metabolism in streamlined bacteria](http://www.nature.com/ismej/journal/vaop/ncurrent/full/ismej2015260a.html)** (2016)
+
+*Authors:* Alexander Eiler1, Rhiannon Mondav1, Lucas Sinclair1, Leyden Fernandez-Vidal1, Douglas G Scofield2, Patrick Schwientek3, Manuel Martinez-Garcia4,10, David Torrents5,6, Katherine D McMahon7,8, Siv GE Andersson9, Ramunas Stepanauskas4, Tanja Woyke3 and Stefan Bertilsson1
+
+- Marine to freshwater
+- SAR11 and the leap from Marine to freshwater environment
+- Metabolic differences and how they slowly changed over time to allow the jump in environments
+
+**[Niche partitioning and biogeography of high light adapted Prochlorococcus across taxonomic ranks in the North Pacific](http://www.nature.com/ismej/journal/v10/n7/full/ismej2015244a.html)** (2016)
+
+*Authors:* Alyse A Larkin1, Sara K Blinebry1, Caroline Howes1, Yajuan Lin1, Sarah E Loftus1, Carrie A Schmaus1, Erik R Zinser2 and Zackary I Johnson1
+
+- Looked at high light adapted Prochlorococcus across spatial and temporal environmental gradients
+- What drives population structure and diversity across taxonomic ranks?
+- More granular ecotypes (than typical taxonomic groupings) can be seen that show different ecological responses to different factors
+
+
+## TODO ##
+
 **[Diversity and genome dynamics of marine cyanophages using metagenomic analyses](http://onlinelibrary.wiley.com/doi/10.1111/1758-2229.12160/full)** (2014)
 
 **[Strong Seasonality and Interannual Recurrence in Marine Myovirus Communities](http://aem.asm.org/content/79/20/6253.short)** (Pagarete et al., 2014)
@@ -183,8 +233,6 @@
 **[The Sorcerer II Global Ocean Sampling Expedition: Metagenomic Characterization of Viruses within Aquatic Microbial Samples](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2186209/)** (2008)
 
 *Authors*: Shannon J. Williamson,1,* Douglas B. Rusch,1 Shibu Yooseph,1 Aaron L. Halpern,1 Karla B. Heidelberg,1,2 John I. Glass,1 Cynthia Andrews-Pfannkoch,1 Douglas Fadrosh,1 Christopher S. Miller,3 Granger Sutton,1 Marvin Frazier,1 and J. Craig Venter1
-
-## TODO ##
 
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0040683
 
@@ -227,6 +275,8 @@ http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0142962
 http://www.ncbi.nlm.nih.gov/pubmed/23987913
 
 http://www.pnas.org/content/110/30/12450.long
+
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-016-0174-1
 
 ### For marker gene paper ###
 
