@@ -278,6 +278,16 @@ http://www.pnas.org/content/110/30/12450.long
 
 https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-016-0174-1
 
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-015-0135-0
+
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-015-0114-5
+
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-015-0081-x
+
+https://genomebiology.biomedcentral.com/articles/10.1186/gb-2008-9-10-r151
+
+http://aem.asm.org/content/71/8/4784.full
+
 ### For marker gene paper ###
 
 http://www.ncbi.nlm.nih.gov/pubmed/18673386
